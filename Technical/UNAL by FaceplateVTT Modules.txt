@@ -1,0 +1,294 @@
+Name: Actually Private Messages
+ID: actually-private-rolls
+Version: 1.5
+Description: Enforces privacy for whispered and self targeted chat messages by hiding them from those they're not for, eliminating new message notifications, and silencing the roll sound of unseen rolls.
+
+Name: Big Bad Module Manager
+ID: bbmm
+Version: 0.0.6
+Description: Utility to manage modules and settings.
+
+Name: Cautious Gamemaster's Pack
+ID: CautiousGamemastersPack
+Version: 1.10.3
+Description: Offers various simple handy options.
+
+Name: Chat Portrait
+ID: chat-portrait
+Version: 13.0.1
+Description: Display the Actor's portrait and colors on the Chat Message.
+
+Name: Chat Edit Anduril
+ID: chatedit-new
+Version: 0.0.43
+Description: 
+
+Name: Carousel Combat Tracker
+ID: combat-tracker-dock
+Version: 4.0.3
+Description: Carousel style combat tracker. Spiritual successor of Combat Carousel
+
+Name: Condition Lab & Triggler
+ID: condition-lab-triggler
+Version: 2.1.0
+Description: Adds various combat-focused features
+
+Name: Custom CSS
+ID: custom-css
+Version: 2.4.2
+Description: Add custom CSS to your world
+
+Name: DF Active Lights
+ID: df-active-lights
+Version: 2.0.0
+Description: Lights can now have complex animations attached to their various properties such as the direction or colour.
+
+Name: Dice Tray
+ID: dice-calculator
+Version: 3.4.6
+Description: Adds a dice tray below chat, and turns the d20 near chat into a dice calculator.
+
+Name: Dice So Nice!
+ID: dice-so-nice
+Version: 5.2.1
+Description: Adds customizable 3D dice to Foundry VTT with lots of options to fit your playstyle.
+
+Name: Earth Calendar
+ID: earth-calendar
+Version: 0.0.2
+Description: 
+
+Name: Follow Me!
+ID: FollowMe
+Version: 10.0.3
+Description: Allows tokens to follow other tokens.
+
+Name: Show me the ROLL
+ID: foundryvtt-show-me-the-roll
+Version: 1.3.6
+Description: This module automatically expand chat messages containing dice roll results and hide specific elements within those messages.
+
+Name: Gamemaster Title Editor
+ID: gamemaster-title-editor
+Version: 1.1.2
+Description: Allows you to customize the Gamemaster's title (e.g., "The Keeper" instead of "GM"). This replaces the title in the Players List and A/V panel.
+
+Name: GM Notes
+ID: gm-notes
+Version: 10.5
+Description: Adds the option to create Notes for Actors, Items, Lights, Tiles, Drawings and JournalEntrys only accessible to GMs
+
+Name: Health Estimate
+ID: healthEstimate
+Version: 34.2.2
+Description: Gives players ability to see approximate health status of a token
+
+Name: Hide Compendiums & Folders
+ID: hide-compendiums-and-folders
+Version: 0.4
+Description: Allows you to selectively hide compendiums and folders via a configuration menu.
+
+Name: Item Piles
+ID: item-piles
+Version: 3.2.27
+Description: This module adds the ability for items to be dropped onto the ground, and then picked up.
+
+Name: Thumbnails for Journal Entries
+ID: journal-thumbnail
+Version: 2.1.0
+Description: A simple module that uses the image of a journal entry as a thumbnail
+
+Name: libWrapper
+ID: lib-wrapper
+Version: 1.13.3.0
+Description: Library for wrapping core Foundry VTT methods, meant to improve compatibility between packages that wrap the same methods.
+
+Name: Mass Import Folder
+ID: mass-import
+Version: 0.1.6
+Description: This module makes easier to import data into the world. It'll read a folder with images, videos or PDFs and turn then into Foundry VTT entities.
+
+Name: Module List Export
+ID: module-list-export
+Version: 1.0.3
+Description: A simple module created to export the list of installed modules for record-keeping.
+
+Name: Monk's Little Details
+ID: monks-little-details
+Version: 13.02
+Description: Things to tidy up the interface and flow
+
+Name: Monk's Scene Navigation
+ID: monks-scene-navigation
+Version: 13.02
+Description: Re-organize the scene navigation to show scenes on one line, and to respect the folder structure.  As well as adding some quality of life improvments for navigating scenes.
+
+Name: Monk's Sound Enhancements
+ID: monks-sound-enhancements
+Version: 13.02
+Description: You can now see what sound files are included in the compendium playlists, preview each file, and then drag and drop individual files.  And if you want to import the play list, you can now select individual files to include in the import, rather than importing the entire list.
+
+Name: Soundboard & Soundpad (by Moulinette)
+ID: moulinette-soundboards
+Version: 1.2.3
+Description: A soundboard to organize your audio and play it effortlessly. Includes sound and music boards from creators like Tabletop Audio and Michael Ghelfi Studios (requires supporting them).
+
+Name: Not Your Turn!
+ID: NotYourTurn
+Version: 3.0.1
+Description: Block token movement if it's not the token's turn.
+
+Name: Alternative Pause Icon
+ID: pause-icon
+Version: 13.003
+Description: Set your pause icon to whatever image you prefer, and set the message to your liking too. Supported formats are jpg, png, webP and gif. Set your rotation speed too!
+
+Name: Playerlist Status - Lib for View status on Playerlist
+ID: playerListStatus
+Version: 4.0.0
+Description: A Lib you can set Status to the playerlist
+
+Name: Player Status
+ID: playerStatus
+Version: 4.0.1
+Description: Track if user write something or are afk
+
+Name: Playlist Enchantment
+ID: playlistenchantment
+Version: 1.3.5
+Description: Some minor tweaks to enhance the playlist experience. Drag playlists to the hotbar and enjoy some additional playlist controls. Read more on the github project page.
+
+Name: Polyglot
+ID: polyglot
+Version: 2.6.5
+Description: Talk to others using a language you can speak and scrambles text you can't understand, in several fantasy scripts.
+
+Name: PopOut!
+ID: popout
+Version: 2.21
+Description: <p>This module adds a PopOut! button to most actor sheets, journal entries, and applications.</p><p>The PopOut! button allows you to open a sheet/application/document into its own window, for easier viewing or for use with multiple monitors.</p>
+
+Name: Precise Drawing Tools
+ID: precise-drawing-tools
+Version: 1.6.1
+Description: Improves the freehand drawing tools to enable more detailed artwork.
+
+Name: Pull Players to Scene
+ID: pull-players-to-scene
+Version: 2.0.0
+Description: Adds a context menu option on scenes to open a dialog to select players to pull to a scene.
+
+Name: Silver Star Maps - Bank
+ID: SilverStar_Bank
+Version: 1.0.0
+Description: A bank with two vaults, multiple entries and rooms. Ideal for a heist!
+
+Name: Silver Star Maps - Bunker
+ID: SilverStar_Bunker
+Version: 1.0.0
+Description: A two-story bunker that serves as a hideout for more than a dozen people
+
+Name: Silver Star Maps - Data Center
+ID: SilverStar_DataCenter
+Version: 1.0.0
+Description: A large data center run by a shady corporation!
+
+Name: Silver Star Maps - Dive Bar
+ID: SilverStar_DiveBar
+Version: 1.0.0
+Description: A local dive bar with modern, 1920's-era, and cyberpunk variants
+
+Name: Silver Star Maps - Highway
+ID: SilverStar_Highway
+Version: 1.0.0
+Description: A collection of highways across various environments.
+
+Name: Silver Star Maps - Military Base
+ID: SilverStar_MilitaryBase
+Version: 1.0.0
+Description: A small recon outpost.
+
+Name: Silver Star Maps - Motel
+ID: SilverStar_Motel
+Version: 1.0.0
+Description: A roadside motel that has seen better days
+
+Name: Silver Star Maps - Police Station
+ID: SilverStar_PoliceStation
+Version: 1.0.0
+Description: A large police station with a jail, offices for detectives, and an armory!
+
+Name: Silver Star Maps - Secret Lab
+ID: SilverStar_SecretLab
+Version: 1.0.0
+Description: A hidden lab that guards technology and secrets unknown to the public
+
+Name: Silver Star Maps - Shipping Port
+ID: SilverStar_ShippingPort
+Version: 1.0.0
+Description: A labyrinth of shipping containers in a shipping yard.
+
+Name: Silver Star Maps - Shopping Mall
+ID: SilverStar_ShoppingMall
+Version: 1.0.0
+Description: A large 2-story shopping mall.
+
+Name: Silver Star Maps - Warehouse
+ID: SilverStar_Warehouse
+Version: 1.0.0
+Description: A dusty warehouse with rows of shelves that is secretly a front for smuggling.
+
+Name: socketlib
+ID: socketlib
+Version: v1.1.3
+Description: A library for easier handling of foundry sockets
+
+Name: Stairways (Teleporter)
+ID: stairways
+Version: 0.11.1
+Description: Easily create stairways (teleporter) within one scene or between two scenes.
+
+Name: Token Frames
+ID: token-frames
+Version: 1.7.0
+Description: Token Frames FoundryVTT
+
+Name: Show Art
+ID: token-hud-art-button
+Version: 1.3.0
+Description: This module adds a button to the token or tile HUD that opens the target actor's artwork, or their token artwork on right-click. It also adds shortcut keybindings: Shift+Z shows a tile/token to everyone, Shift+X shows an actor's art to everyone, hold Alt with either to show to only yourself.
+
+Name: Token Variant Art
+ID: token-variants
+Version: 6.0.1
+Description: Searches a customizable list of directories and displays art variants for tokens/actors through pop-ups and a new Token HUD button. Variants can be individually shared with players allowing them to switch out their token art on the fly.
+
+Name: Token Warp
+ID: tokenwarp
+Version: 13.347.2
+Description: A small module for Foundry VTT, helping GMs to avoid revealing their maps by automatically removing tokens movement animation when going through walls.
+
+Name: Torch
+ID: torch
+Version: 3.1.0
+Description: Torch HUD Controls
+
+Name: Vauxs' Archives
+ID: vauxs-archives
+Version: 2.1.3
+Description: 
+
+Name: Tokenizer
+ID: vtta-tokenizer
+Version: 4.5.6
+Description: Tiny yet capable in-game token editor
+
+Name: Yendor's Scene Actors
+ID: yendors-scene-actors
+Version: 2.0.0
+Description: Show actor images on your scenes easily with a nice actor selector ui.
+
+Name: Z Scatter
+ID: z-scatter
+Version: 2.0.1
+Description: Automatically force snap small and medium-sized tokens in the same square, for better token management in the grid.

@@ -1,0 +1,270 @@
+A sorcerer is fleeing to Canada to escape Delta Green. On the other side of the border, M-EPIC Officers are waiting to grab the wizard. Neither knows the other is there. The unfortunate sorcerer picks the Haskell Free Library and Opera House as a crossing point, a structure straddling the border between Stanstead, Quebec and Derby Line, Vermont.
+ASSIGNING CHARACTERS
+
+3 players:
+One EPIC Officer
+One DG Agent
+One VECTOR
+
+4 players:
+Add Agent to one side
+
+5 players:
+Both sides have two Agents
+
+6 players:
+Both sides have two Agents and there are two VECTORS
+THE HASKELL FREE LIBRARY AND OPERA HOUSE
+
+From Wikipedia, the Free Encyclopedia
+
+The library collection and opera stage are located in Stanstead, but the main entrance is located in Derby Line. Thus, the Haskell is sometimes called "the only library in the U.S.A. with no books" and "the only opera house in the U.S.A. with no stage". There is no entrance from Canada, however there is an emergency exit on the Canadian side. Patrons and visitors must use the US entrance. Patrons from Canada are permitted to enter the US door without reporting to customs, providing they return to Canada immediately upon leaving.
+
+A thick black line runs beneath the seats of the opera house and diagonally across the center of the library's reading room to mark the border. The stage and half of the seats are in Canada, the remainder of the opera hall is in the US.
+
+The library has a collection of more than 20,000 books in French and English, and is open 38 hours a week.
+
+The building can be accessed through the main entrance on the US side, stairs up to the second floor on the US side, or an emergency exit on the Canadian side.
+
+Opening the emergency exit will trigger an alarm, unless disabled with the appropriate Craft skill. Triggering the alarm prompts egress of the opera guests through both the emergency exit and the main entrance, inhibiting attempts to enter.
+
+The Haskell building is watched by a US Border Patrol agent, to stop Canadians illegally entering the United States.
+BORDER PATROL AGENT
+
+STR 12, CON 12, DEX 12, INT 12, POW 12, CHA 12
+HP 12, WP 12, SAN 60
+SKILLS: Alertness 60%, Bureaucracy 40%, Criminology 40%, Drive 50%, Firearms 40%, First Aid 30%, Foreign Language (French) 50%, HUMINT 50%, Law 30%, Melee Weapons 50%, Navigate 40%, Persuade 40%, Search 40%, Unarmed Combat 60%
+ARMOR: 4 points of reinforced kevlar
+ATTACKS: HK P200 (40%, D10)
+Baton (50%, D6)
+OC Spray (60%, penalty to actions on hit)
+Taser (60%, Stun)
+
+The Border Patrol agent sides with American over Canadian Officers, but won’t shoot Canadian LEOs except in defense of himself or another. He’ll shadow the EPIC Officers if they act suspicious.
+SETUP
+
+It’s 9:00 PM. The parking lot outside is full. The opera is in progress.
+
+The VECTOR(s) begins the scenario inside the Library and Opera House, where they have just fled to hide from pursuit by DG.
+
+The DG Agent(s) begin on the American side of the Opera House. Their target has just fled inside.
+
+The EPIC Officer(s) begin inside the opera house, lying in wait for their target, who will enter soon.
+
+Delta Green gets a briefing based on which fugitive they are chasing:
+
+    SERENA TESTER is an escaped convict, accompanied by some kind of accomplice
+    DIGBY KORENCHKIN is a suspected burglar and arsonist, armed and dangerous
+    RICHMOND CASTAIGNE is a patient from a state institution, a danger to himself and others
+
+THE OPERA
+
+The Opera is Quellcrist Thatcher’s award winning adaptation of Shadow of the Torturer, a post apocalyptic science-fantasy epic about a torturer exiled from his guild for the crime of showing mercy.
+
+The programme:
+8:00 - Prologue
+8:31 - Act I
+9:09 - 5 minute break
+9:14 - Act II
+10:00 - Intermission
+10:20 - Act III
+11:02 - 5 minute break
+11:07 - Act IV
+11:51 - Curtains
+ADDING FRICTION
+
+A wealthy socialite is attending the opera, rarely seen in the United States since its disastrous first showing at Chicago’s Titan Theater. The aristo’s armed bodyguard is wary of anyone acting suspicious near his meal ticket.
+
+The play is being broadcast live on public access - both PBS and CBC. There are cameras and crew set up in the opera house, trained on the performance.
+
+A medical emergency stops the performance. Everyone has their phones out to call 9/11. Anyone identifiable as law enforcement is pressed into performing CPR and rendering first aid until an AED is found.
+DELTA GREEN AGENTS
+
+DELTA GREEN Agents begin the game outside the Haskell Building on the United States side, tracking a vector who has just gone inside. They must stop the incursion and obscure Delta Green’s involvement. The sorcerer they’re tracking may have accomplices on the other side of the border.
+
+WHAT KIND OF AGENT ARE YOU?
+Tough and Violent? (GAGNON)
+Weird and Magical? (CLARKE)
+Charming and Manipulative? (FRANCIS)
+Agent GAGNON - ATF Special Agent Esme Parkreiner
+
+STR 11, CON 14, DEX 13, INT 9, POW 15, CHA 7
+HP 13, WP 15, SAN 70, BP 60, Adapted to Violence
+SKILLS: Accounting 60%, Alertness 40%, Athletics 50%, Bureaucracy 40%, Craft: Gunsmith 40%, Criminology 50%, Dodge 50%, Drive 50%, Firearms 70%, First Aid 30%, Forensics 30%, HUMINT 60%, Law 50%, Melee Weapons 50%, Persuade 50%, Search 50%, Unarmed Combat 60%
+ARMOR: 3 (Kevlar)
+ATTACKS: Glock 22 (70%, D12)
+S&W J Frame (70%, D8)
+Big Knife (50%, D6, 3 AP)
+Knuckledusters/Boots (60%, D4)
+ADDITIONAL ITEMS: Tactical light
+Handcuffs in a belt pouch
+Police-band radio with earpiece and throat microphone
+Big coat
+BONDS: Liebowitz Fitzgerald Parkreiner (Brother) 7
+Special Agent Garshasp Ghorbani (Mentor) 7
+Agent Zhi Pan (Partner) 7
+
+ATF Agent. Stellar arrest record, experience shooting cultists, ability to procure illegal weapons, and willingness to hurt people extrajudicially made her a natural recruit for Delta Green.
+Agent CLARKE - John Moore, NSA
+
+STR 11, CON 12, DEX 11, INT 14, POW 14, CHA 8
+HP 12, WP 14, SAN 56, BP 42, Hypergeometry Addiction
+SKILLS: Accounting 50%, Anthropology 40%, Bureaucracy 50%, Computer Science 60%, Criminology 40%, Firearms 40%, Foreign Languages: (Arabic 50%, French 50%, Latin 40%), Forensics 20%, History 40%, HUMINT 50%, Occult 50%, SIGINT 60%, Stealth 30%, Unnatural 10%
+ATTACKS: Sig Sauer P229 (40%, D10)
+ADDITIONAL ITEMS: Police-band radio with earpiece and throat microphone
+BONDS: Alice and Simon Moore (Siblings) 8
+Julia Moore (Wife) 8
+NSA Colleagues 8
+RITUALS: Elder Sign
+
+    A mystical sigil. It commands respect from many of those from Outside. When gestured in the air (costing 2 WP and 1 SAN), it prevents such beings from coming within 10 meters of Clarke for 2D6 turns, provided he takes no hostile action against them. If an entity is somehow physically forced into that radius, it loses 1D6 POW per turn. As a gesture, the Elder Sign affects a given entity only once in 24 hours.
+
+THE HAND AND THE HEART: Clarke carries a severed hand, preserved and covered in prayer tattoos blue with age. By clasping the hand and reciting these prayers, Clarke can enlist its aid to locate objects, sense danger, or navigate when lost. When “in-use”, or whenever it feels like, the hand crawls around on its fingers. It can attack people who threaten it, or its owner, by latching on to their throat with a 40% unarmed attack. It has a strong grip, considering its lack of leverage.
+
+NSA analyst. Ability to sift through vast amounts of information, combined with position in the state’s intelligence apparatus and commitment to protecting United States from hidden threats, made him a natural fit for recruitment to Delta Green.
+Agent FRANCIS - FBI Special Agent Chet Redwood
+
+STR 12, CON 12, DEX 11, INT 12, POW 11, CHA 14
+HP 12, WP 11, SAN 55, BP 44
+SKILLS: Alertness 50%, Anthropology 40%, Bureaucracy 40%, Criminology 50%, Drive 50%, Firearms 50%, Foreign Language: (French 50%), Forensics 30%, HUMINT 80%, Law 30%, Occult 50%, Persuade 80%, Psychotherapy 60%, Search 50%, Unarmed Combat 80%
+ARMOR: 3 (Kevlar)
+ATTACKS: Glock 23 w/ Laser Sight (70%, D10)
+S&W Bodyguard (50%, D8)
+Unarmed (80%, D4-1)
+ADDITIONAL ITEMS: Tactical light
+Handcuffs in a belt pouch
+Police-band radio with earpiece and throat microphone
+BONDS: Cassandra (Secretary) 14
+Dr Forsing (Surly Medical Examiner) 14
+Jennifer Baron (Original Partner’s Dead Wife) 14
+
+FBI Agent. Recruited into Delta Green while investigating mysterious death in the Pacific Northwest that led to supernatural encounters. Sunny disposition makes him an outlier among Agents, many of whom consider him insufferable as a result.
+M-EPIC OFFICERS
+
+The Environmental Policy Impact Commission is a front for Canadian anti-mythos operations. Officially its powers are investigating the environmental impact of policies, investigating environmental hazards, and producing recommendations to the government. Secretly, EPIC officers are vested with powers of arrest, search, seizure, and the use of force to protect the Confederation from the mythos.
+
+EPIC Officers begin inside the Haskell Building. They may have made their presence known to management, or might be undercover among the audience. They’re here because they know a person of interest will enter the building soon. Their objective is to apprehend this person.
+
+WHAT KIND OF OFFICER ARE YOU?
+A By-the-book Mountie? (McKenzie)
+A Rugged Ranger? (Duquette)
+A Clever Analyst? (Tremblay)
+Officer Logan McKenzie - Formerly of RCMP
+
+STR 12, CON 13, DEX 11, INT 11, POW 10, CHA 12
+HP 13, WP 10, SAN 60, BP 52, Adapted to Helplessness
+SKILLS: Alertness 50%, Athletics 50%, Bureaucracy 40%, Criminology 50%, Dodge 50%, Drive 50%, Firearms 70%, Foreign Language French 50%, First Aid 30%, Forensics 30%, HUMINT 60%, Law 30%, Occult 20%, Persuade 70%, Ride 30%, Search 50%, Swim 40%, Unarmed Combat 80%
+ARMOR: 3 (Kevlar)
+ATTACKS: S&W Model 5906 (70%, D10)
+CED Pistol (70%, Stun)
+Unarmed (80%, D4-1)
+ADDITIONAL ITEMS: Multitool
+Handcuffs in a belt pouch
+Police band radio and throat microphone
+BONDS: Ronald Duchamp (Confessor) 12
+Alyssa McKenzie (Wife) 12
+Officer Susan Tremblay (Fellow EPIC Officer) 6
+
+Former Mountie from Yukon detachment. Strict by-the-book approach. Ran afoul in '14 of Ithaqua cultists, held for six weeks. Escaped, reported cultists to superiors; EPIC handled the raid with MacKenzie assisting.
+Officer Marie-Elie Duquette, Canadian Rangers, 2nd Division
+
+STR 13, CON 14, DEX 10, INT 10, POW 13, CHA 12
+HP 14, WP 13, SAN 60, BP 52
+Skills: Alertness 50%, Archaeology 20%, Athletics 50%, Bureaucracy 30%, Craft: Electronics 40%, Drive 40%, Firearms 40%, First Aid 50%, Foreign Language (Algonquin 40%, French 20%), , Melee Weapons 60%, Military Science Land 20%, Navigate 40%, Occult 60%, Persuade 50%, Search 60%, SIGINT 40%, Survival 50%, Unarmed Combat 60%
+ATTACKS: Smith & Wesson Centennial (40%, D12)
+Survival Knife (60%, D6+1, 3 AP)
+Unarmed (60%, D4)
+ADDITIONAL ITEMS: First Aid Kit
+ParaComm PCX 250 High Frequency shortwave radio
+Astrocompass
+BONDS: Murray and Winona Duquette (Parents) 12
+Carola and Leonard Duquette (Siblings) 12
+Mathieya Mervin (Band Chief) 12
+Arnold Lavosier (Patrol Leader) 12
+
+Algonquin nation hunter/trapper. Volunteered for Rangers in '11. Crossed paths in '15 with wendigo that ventured too far South, picking off hikers in rural towns. Almost died hunting it. EPIC team found her during clean-up. Offered a post in Quebec office. Maintains volunteer service with Rangers 2nd div.
+Officer Susan Tremblay - Formerly of CSIS
+
+STR 11, CON 9, DEX 10, INT 17, POW 12, CHA 13
+HP 10, WP 12, SAN 48, BP 36, Selenophobia (Fear of the Moon)
+Skills: Alertness 40%, Anthropology 60%, Athletics 50%, Bureaucracy 50%, Computer Science 40%, Criminology 40%, Foreign Languages (French 50%, Inuktitut 40%, Pashto 50%), History 60%, HUMINT 70%, Occult 20%, SIGINT 40%, Stealth 50%, Unnatural 10%
+ATTACKS: Browning Hi Power w/ Laser Sight (40%, D10)
+ADDITIONAL ITEMS: Snap gun
+Flashlight
+Fake ID
+Earplugs
+Photo of the target
+BONDS: Norman LeBarge (Ex-Husband) 13
+Hanna Tremblay (Younger Sister) 13
+Officer Logan McKenzie (Fellow EPIC Officer ) 7
+RITUALS: Fascination
+
+    This ritual requires that operator speak calmly to the subject (not in a fight or beyond speaking distance) and takes a single turn, costing D6 SAN and 3 WP. If the Activation roll succeeds, the operator makes an opposed POW test vs the target. Success renders the subject motionless and insensate for up to an hour. Until then, only physical assault or some other overwhelming event shocks them out of it.
+
+Finding
+
+    A chant invokes the names of helper spirits It costs 4 WP and 1 SAN. For 3D6 minutes, it adds a +40% bonus to rolls to find something, if the lost thing is within 100 m.
+
+Army intelligence in Afghanistan ‘01 to ‘08. Went civilian, recruited into CSIS. Aptitude for "unusual" case work brought her to EPIC's attention in ‘14. Transferred to Quebec office in ‘17. Officer in charge of field team.
+VECTORS
+
+VECTORS begin the game inside the Opera House. They know Delta Green is hunting them, and Canada won’t extradite anyone who faces the death penalty in their home country.
+
+WHAT KIND OF VECTOR ARE YOU?
+A Witch, escaped from prison with her familiar? (Serena)
+A Burglar, on the run after robbing a wizard’s house? (Digby)
+A King, in exile after escaping an asylum? (Richmond)
+SERENA “WEB” TESTER - Convict on the Run
+
+STR 12, CON 10, DEX 13, INT 14, POW 10, CHA 10
+HP 11, WP 10, SAN 42, BP 32, Adapted to Helplessness
+SKILLS: Accounting: 60%, Bureaucracy 60%, Computer Science 70%, Craft (Engineering) 40%, Criminology 30%, Foreign Language (Spanish) 50%, History 40%, HUMINT 60%, Law 40%, Melee Weapons 50%, Persuade 50%, Science (Physics) 50%, Stealth 30%, Unnatural 8%
+BONDS: Melody Tester (Daughter) 5
+“Pop-Tart” (Cellmate) 5
+Sarah (Witch’s Familiar) 5
+RITUALS: Infallible Suggestion
+
+    This ritual requires strange gestures and a quiet chant. The operator must overcome the target in an opposed POW test. If that succeeds, the ritual costs 8 WP (or 1 POW) and 1D4 SAN. For one turn, the victim obeys any command given by the operator. Commanding a victim to murder, suicide, or some other awful act costs the operator the same SAN as the victim.
+
+After being framed for financial crimes by her corrupt bosses, Serena Tester fell in with a bad crowd in Federal prison. A bad magical crowd, led by a witch who promised them freedom and power. When they broke out, “Web” immediately split from the coven and ran for the border. Accompanying her is the familiar the coven taught her to summon.
+SARAH - Serena’s Familiar
+
+STR 2, CON 7, DEX 20, INT 10, POW 8
+HP 5, WP 8
+SKILLS: Alertness 80%, Athletics 50%, Dodge 95%, Stealth 80%, Unnatural 50%
+ATTACKS: Bite 40%, damage 1D4
+FAMILIAR: Sarah can act as an assistant in any ritual Serena knows, spending WP or POW to help him activate it.
+SMALL AND NIMBLE: Any attack against Sarah is at −40% due to her small size.
+SAN LOSS: 1/1D6
+
+Sarah is a beetle the size of a cat, with a lovely human face. She can speak, manipulate things with her forelegs, and understand Serena’s wishes intuitively.
+DIGBY KORENCHKIN - The Second-Story Man
+
+STR 13, CON 13, DEX 11, INT 11, POW 13, CHA 11
+HP 13, WP 13, SAN 40, BP 30, Intermittent Explosive Disorder
+SKILLS: Alertness 50%, Athletics 50%, Craft (Locksmithing) 40%, Criminology 60%, Disguise 50%, Dodge 40%, Drive 50%, Firearms 40%, HUMINT 50%, Law 40%, Melee Weapons 40%, Occult 50%, Persuade 70%, Stealth 70%, Unarmed Combat 70%, Unnatural 3%
+ATTACKS: 1911 (40%, D10)
+Big knife (40%, D6+1, 3 AP)
+Knuckledusters (70%, D4+1)
+BONDS: Sage (Stripper Girlfriend) 5
+Rosemary (Other Stripper Girlfriend) 5
+Tom Swanson (Dealer) 6
+RITUALS: Withering
+
+    At cost of 12 WP and D8 SAN, this chanted ritual withers flesh and blasts bones, inflicting 3 HP damage to the operator and 1D20 HP damage to a living target. The target must be nearby and in sight.
+
+Digby Korenchkin broke into the old house expecting to find something valuable to steal. What he found inside was a voice from inside the walls, offering him fabulous power and riches in exchange for gruesome offerings. It was a profitable arrangement, for a while. When the house burned down with the wizard inside, Digby realized he’d been made, and made a run for the border.
+RICHMOND CASTAIGNE - Heir to the Imperial Dynasty
+
+STR 11, CON 11, DEX 11, INT 13, POW 10, CHA 13
+HP 11, WP 13, SAN 40, BP 30, Megalomania (the Crown shall be YOURS)
+SKILLS: Accounting 50%, Alertness 40%, Anthropology 20%, Archaeology 40%, Art (Drawing/Painting 60%, Forgery 40%), Criminology 50%, Foreign Language French 40%, History 40%, HUMINT 40%, Law 60%, Melee Weapons 50%, Occult 50%, Persuade 50%, Psychotherapy 50%, Unnatural 2%
+BONDS: The Hanged King 3
+The Drowned King 3
+The Pallid King 3
+THAT LITTLE YELLOW SIGN CAN’T BE IGNORED: Richmond carries within his mind the seal of the Imperial Dynasty. He can draw or inscribe it on any surface he pleases. Anyone who gazes at it is momentarily seized by its majesty, and by grand mal seizures. The convulsions last as long as they look at it.
+
+Richmond Castaigne was in the hospital, recovering from a psychotic break, when he realized the truth: this is not the true world. The true world lies on the other side, and he is its sole son and heir. The small minded fools of this false realm have pursued him to the Canadian border, forcing him into temporary exile. Soon he will take his rightful place as the last scion of the Imperial Dynasty of Lost Ythil and Splendid Carcosa.
+Credits
+
+This was an entry to the 2019 Delta Green shotgun scenario contest, written by mellonbread and William Roy.
